@@ -6,6 +6,4 @@
 6. $a /=5;
 7. $a %=2;
 8. $a**=3;
-9. $a = 10;
-
-echo "Wartość zmiennej $a wynosi: {$a} i już się nie zmieni.";
+9. echo "Wartość zmiennej $a wynosi: {$a} i już się nie zmieni.";
